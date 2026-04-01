@@ -1,3 +1,4 @@
+package JAVA.Lec01;
 
 import java.util.*;
 public class t2 {

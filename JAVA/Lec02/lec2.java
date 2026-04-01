@@ -1,3 +1,4 @@
+package JAVA.Lec02;
 public class lec2{
     public static void main(String[] args) {
         int a[]={3,20,7,15,6,5,8,2};

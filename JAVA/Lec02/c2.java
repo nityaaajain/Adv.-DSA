@@ -1,3 +1,4 @@
+package JAVA.Lec02;
 public class c2 {
     public static void main(String[] args) {
         int a[]={3,5,0,0,7,0,1,0,4};
